@@ -77,8 +77,10 @@ params:
   socialIcons:
     - name: bluesky
       url: "https://bsky.app/profile/stefantaitano.com"
+      title: I share my thoughts in the sky
     - name: linkedin
       url: "https://www.linkedin.com/in/stefantaitano/"
+      title: Connect with me on linkedin
     - name: github
       url: "https://github.com/stefanintech"
       title: See my code
