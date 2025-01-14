@@ -1,5 +1,5 @@
-baseURL: "https://examplesite.com/"
-title: ExampleSite
+baseURL: "https://stefantaitano.com/"
+title: StefanTaitano
 paginate: 5
 theme: PaperMod
 
@@ -14,8 +14,8 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: "ExampleSite description"
+  title: StefanTaitano
+  description: "Stefan Taitano's website, portfolio, and blog"
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
   # author: ["Me", "You"] # multiple authors
@@ -71,16 +71,17 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Title: "Stefan Taitano \U0001F44B"
+    Content: i consult with IT in the cloud, lift heavy things for fun, and move pawns on 64squares
 
   socialIcons:
-    - name: x
-      url: "https://x.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
+    - name: bluesky
+      url: "https://bsky.app/profile/stefantaitano.com"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/stefantaitano/"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/stefanintech"
+      title: See my code
 
   analytics:
     google:
