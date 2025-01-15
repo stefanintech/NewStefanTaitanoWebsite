@@ -11,6 +11,22 @@
     </image>
     <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
+    <lastBuildDate>Tue, 14 Jan 2025 21:06:32 -0600</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Tue, 14 Jan 2025 21:06:32 -0600</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h1 id=&#34;survived-one-year-in-the-servicenow-ecosystem&#34;&gt;Survived one year in the ServiceNow Ecosystem&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>About me</title>
+      <link>http://localhost:1313/aboutme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/aboutme/</guid>
+      <description>&lt;p&gt;Hi there! I&amp;rsquo;m Stefan Taitano, and welcome to my corner of the internet. This site is a space where I share my thoughts on technology, chess, productivity, and more. It’s also a hub for my creative projects and interests.&lt;/p&gt;
+&lt;p&gt;Professionally, I work as a ServiceNow Technical Consultant at &lt;a href=&#34;https://www.thirdera.com/&#34;&gt;Thirdera&lt;/a&gt;, where I help organizations streamline and automate their workflows. I’m also proud to lead the up-and-coming ServiceNow Veterans in Tech group, a community initiative that’s launching soon. Before diving into tech, I served in the United States Army as a Fire Control Specialist, taking on roles like Team Lead, Program Manager, and Retention Manager. These days, I call Minnesota home.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
