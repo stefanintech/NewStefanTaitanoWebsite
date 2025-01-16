@@ -1,7 +1,7 @@
 ---
 title: "About me"
 url: "/aboutme"
-draft: true
+draft: false
 # description: "Stefan Taitano is the person who made this website. He is based in Minnesota."
 ---
 
