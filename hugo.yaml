@@ -71,8 +71,13 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Stefan Taitano \U0001F44B"
-    Content: i consult with IT in the cloud, lift heavy things for fun, and move pawns on 64squares
+    Title: "Stefan Taitano \U0001F44B\U0001F3FD"
+    Content: >
+        I solve problems in ServiceNow, lift heavy things for fun, and plot my next chess move.
+        
+        
+        Here's more [about me](/aboutme)! You can find me on Bluesky, LinkedIn, and Github.
+        
 
   socialIcons:
     - name: bluesky
@@ -120,13 +125,13 @@ menu:
       name: about me
       url: /aboutme/
       weight: 10
-    - identifier: tags
-      name: tags
-      url: /tags/
+    - identifier: projects
+      name: projects
+      url: /projects/
       weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
+    - identifier: archive
+      name: archive
+      url: /archive/
       weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true

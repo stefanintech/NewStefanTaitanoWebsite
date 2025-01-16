@@ -11,14 +11,21 @@
     </image>
     <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Jan 2025 21:06:32 -0600</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 18:08:42 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
+      <title>UI Build Along Month</title>
+      <link>http://localhost:1313/projects/ui_buildalong_2024/</link>
+      <pubDate>Wed, 15 Jan 2025 18:08:42 -0400</pubDate>
+      <guid>http://localhost:1313/projects/ui_buildalong_2024/</guid>
+      <description>Not a project but a kitten</description>
+    </item>
+    <item>
+      <title>Why I built this with Hugo</title>
       <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Tue, 14 Jan 2025 21:06:32 -0600</pubDate>
       <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;h1 id=&#34;survived-one-year-in-the-servicenow-ecosystem&#34;&gt;Survived one year in the ServiceNow Ecosystem&lt;/h1&gt;</description>
+      <description>&lt;h1 id=&#34;coming-soon&#34;&gt;Coming soon&lt;/h1&gt;</description>
     </item>
     <item>
       <title>About me</title>

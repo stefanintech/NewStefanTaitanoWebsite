@@ -1,7 +1,7 @@
 ---
 date: '2025-01-14T21:06:32-06:00'
 draft: true
-title: 'My First Post'
+title: 'Why I built this with Hugo'
 ---
-# Survived one year in the ServiceNow Ecosystem
+# Coming soon
 
