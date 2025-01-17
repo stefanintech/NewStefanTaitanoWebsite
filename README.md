@@ -18,5 +18,12 @@
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 ## Let's Connect 👋🏽
-- [Bluesky](https://bsky.app/profile/stefantaitano.com)
-- [LinkedIn](https://www.linkedin.com/in/stefantaitano/)
+<a target="_blank" href="https://stefantaitano.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">
+</a>
+<a target="_blank" href="https://bsky.app/profile/stefantaitano.com">
+  <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white">
+</a>
+<a target="_blank" href="https://www.linkedin.com/in/stefantaitano/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
