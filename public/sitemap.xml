@@ -2,31 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://stefantaitano.com/tags/kitten/</loc>
+    <loc>http://localhost:1313/tags/kitten/</loc>
     <lastmod>2025-01-15T18:08:42-04:00</lastmod>
   </url><url>
-    <loc>https://stefantaitano.com/projects/</loc>
+    <loc>http://localhost:1313/projects/</loc>
     <lastmod>2025-01-15T18:08:42-04:00</lastmod>
   </url><url>
-    <loc>https://stefantaitano.com/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-01-15T18:08:42-04:00</lastmod>
   </url><url>
-    <loc>https://stefantaitano.com/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-01-15T18:08:42-04:00</lastmod>
   </url><url>
-    <loc>https://stefantaitano.com/projects/ui_buildalong_2024/</loc>
+    <loc>http://localhost:1313/projects/ui_buildalong_2024/</loc>
     <lastmod>2025-01-15T18:08:42-04:00</lastmod>
   </url><url>
-    <loc>https://stefantaitano.com/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-01-14T21:06:32-06:00</lastmod>
   </url><url>
-    <loc>https://stefantaitano.com/posts/my-first-post/</loc>
+    <loc>http://localhost:1313/posts/my-first-post/</loc>
     <lastmod>2025-01-14T21:06:32-06:00</lastmod>
   </url><url>
-    <loc>https://stefantaitano.com/aboutme/</loc>
+    <loc>http://localhost:1313/aboutme/</loc>
   </url><url>
-    <loc>https://stefantaitano.com/archive/</loc>
+    <loc>http://localhost:1313/archive/</loc>
   </url><url>
-    <loc>https://stefantaitano.com/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url>
 </urlset>

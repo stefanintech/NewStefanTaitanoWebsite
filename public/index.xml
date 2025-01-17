@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>StefanTaitano</title>
-    <link>https://stefantaitano.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on StefanTaitano</description>
     <image>
       <title>StefanTaitano</title>
-      <url>https://stefantaitano.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://stefantaitano.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
     <lastBuildDate>Wed, 15 Jan 2025 18:08:42 -0400</lastBuildDate>
-    <atom:link href="https://stefantaitano.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>UI Build Along Month</title>
-      <link>https://stefantaitano.com/projects/ui_buildalong_2024/</link>
+      <link>http://localhost:1313/projects/ui_buildalong_2024/</link>
       <pubDate>Wed, 15 Jan 2025 18:08:42 -0400</pubDate>
-      <guid>https://stefantaitano.com/projects/ui_buildalong_2024/</guid>
+      <guid>http://localhost:1313/projects/ui_buildalong_2024/</guid>
       <description>Not a project but a kitten</description>
     </item>
     <item>
       <title>Why I built this with Hugo</title>
-      <link>https://stefantaitano.com/posts/my-first-post/</link>
+      <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Tue, 14 Jan 2025 21:06:32 -0600</pubDate>
-      <guid>https://stefantaitano.com/posts/my-first-post/</guid>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
       <description>&lt;h1 id=&#34;coming-soon&#34;&gt;Coming soon&lt;/h1&gt;</description>
     </item>
     <item>
       <title>About me</title>
-      <link>https://stefantaitano.com/aboutme/</link>
+      <link>http://localhost:1313/aboutme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://stefantaitano.com/aboutme/</guid>
+      <guid>http://localhost:1313/aboutme/</guid>
       <description>&lt;p&gt;Hi there! I&amp;rsquo;m Stefan Taitano, and welcome to my corner of the internet. This site is a space where I share my thoughts on technology, chess, productivity, and more. It’s also a hub for my creative projects and interests.&lt;/p&gt;
 &lt;p&gt;Professionally, I work as a ServiceNow Technical Consultant at &lt;a href=&#34;https://www.thirdera.com/&#34;&gt;Thirdera&lt;/a&gt;, where I help organizations streamline and automate their workflows. I’m also proud to lead the up-and-coming ServiceNow Veterans in Tech group, a community initiative that’s launching soon. Before diving into tech, I served in the United States Army as a Fire Control Specialist, taking on roles like Team Lead, Program Manager, and Retention Manager. These days, I call Minnesota home.&lt;/p&gt;</description>
     </item>
