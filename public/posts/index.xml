@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on StefanTaitano</title>
+    <title>Posts on Stefan Taitano</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on StefanTaitano</description>
+    <description>Recent content in Posts on Stefan Taitano</description>
     <image>
-      <title>StefanTaitano</title>
+      <title>Stefan Taitano</title>
       <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
@@ -14,11 +14,12 @@
     <lastBuildDate>Tue, 14 Jan 2025 21:06:32 -0600</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Why I built this with Hugo</title>
+      <title>Why I Built My Website with Hugo</title>
       <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Tue, 14 Jan 2025 21:06:32 -0600</pubDate>
       <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;h1 id=&#34;coming-soon&#34;&gt;Coming soon&lt;/h1&gt;</description>
+      <description>&lt;p&gt;Hi there! I want to share why I chose Hugo to build this corner of the internet. It&amp;rsquo;s a decision that&amp;rsquo;s shaped how I approach content creation and web development, and I think you might find it interesting.&lt;/p&gt;
+&lt;p&gt;For those unfamiliar, Hugo is a static site generator that turns your content into blazing-fast websites—it&amp;rsquo;s as cool as it sounds! Think of it as a super-efficient website builder that focuses on speed and simplicity.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

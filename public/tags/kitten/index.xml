@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Kitten on StefanTaitano</title>
+    <title>Kitten on Stefan Taitano</title>
     <link>http://localhost:1313/tags/kitten/</link>
-    <description>Recent content in Kitten on StefanTaitano</description>
+    <description>Recent content in Kitten on Stefan Taitano</description>
     <image>
-      <title>StefanTaitano</title>
+      <title>Stefan Taitano</title>
       <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>

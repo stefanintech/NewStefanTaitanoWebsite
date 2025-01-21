@@ -4,13 +4,13 @@ date: 2025-01-15T18:08:42-04:00
 draft: false
 cover:
     image: https://placecats.com/300/200
-    alt: "Not a project but a kitten"
-    caption: "Not a project but a kitten"
+    alt: "Not a project but it is coming soon"
+    caption: "Not a project but it is coming soon"
     hidden: false
     hiddenInSingle: false
-summary: "Not a project but a kitten"
+summary: "Not a project but it is coming soon"
 ShowReadingTime: false
-tags: ["Kitten"]
+tags: ["UI Builder", "ServiceNow", "Project"]
 ---
 
 ## Lessons Learned 💭
@@ -22,8 +22,8 @@ To be continued in UI Builder.
 ## Examples ⤵️
 No examples here but I do want to share resources on UI Builder:
 
-[What is UI Builder](https://www.servicenow.com/products/ui-builder.html)
+* [What is UI Builder](https://www.servicenow.com/products/ui-builder.html)
 
-[Build Along Month](https://servicenownextexperience.github.io/buildAlongMonth/)
+* [Build Along Month](https://servicenownextexperience.github.io/buildAlongMonth/)
 
-[UI Builder Docs](https://www.servicenow.com/docs/csh?topicname=ui-builder-overview.html&version=latest)
+* [UI Builder Docs](https://www.servicenow.com/docs/csh?topicname=ui-builder-overview.html&version=latest)

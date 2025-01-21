@@ -1,5 +1,5 @@
 baseURL: "https://stefantaitano.netlify.app/"
-title: StefanTaitano
+title: Stefan Taitano
 paginate: 5
 theme: PaperMod
 
@@ -72,11 +72,10 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Stefan Taitano \U0001F44B\U0001F3FD"
-    Content: >
-        I solve problems in ServiceNow, lift heavy things for fun, and plot my next chess move.
-        
-        
-        Here's more [about me](/aboutme)! You can find me on Bluesky, LinkedIn, and Github.
+    Content:
+            I solve problems in ServiceNow, lift heavy things for fun, and plot my next [chess](https://www.chess.com/member/96moveslater) move.
+
+            Here's more [about me](/aboutme)! You can find me on Bluesky, LinkedIn, and Github.
         
 
   socialIcons:

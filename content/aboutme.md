@@ -17,7 +17,7 @@ Outside of work, I’m a big fan of podcasts and audiobooks, slowly but surely w
 
 ## What’s This Site About?
 
-Creating the "perfect" personal website has been a bit of an obsession of mine. My first attempt, [Stefantaitano.dev](https://stefantaitano.dev/), was simple and straightforward, but I wanted something that felt more... me.
+Creating the "perfect" personal website has been a bit of an obsession of mine. My first attempt, [stefantaitano.dev](https://stefantaitano.dev/), was simple and straightforward, but I wanted something that felt more... me.
 
 This site is my attempt to process and share ideas with the world. Soon, you’ll find articles, tutorials, and random musings on whatever I’m diving into at the moment. My hope is that you’ll discover something useful—or at least interesting—along the way.
 
