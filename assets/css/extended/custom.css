@@ -1,7 +1,7 @@
-a {
-  transition: color 0.3s ease; /* Smooth color transition */
-}
-
-a:hover {
-  color: #007BFF; /* Electric blue on hover */
-}
+/* :root {
+    --link-color: var(--primary);
+    --link-hover-color: #573eaa;
+    --link-underline-shadow: 0 1px 0 var(--link-color);
+    --link-hover-underline-color: #573eaa;
+    --link-hover-underline-shadow: 0 2px 0 var(--link-hover-underline-color);
+  } */
