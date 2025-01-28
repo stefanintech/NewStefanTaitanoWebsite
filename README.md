@@ -1,4 +1,4 @@
-# <a target="_blank" href="https://stefantaitano.netlify.app/">Stefan Portfolio</a> 💻
+# <a target="_blank" href="https://stefantaitano.netlify.app/;.">Stefan Portfolio</a> 💻
 
 
 ## Lessons Learned 💭
@@ -7,9 +7,12 @@
 - Deploying a Hugo website with GitHub pages
 - Many more :)
 ## Optimization ✅
-- [ ] Animation when hovering over certain icons, text, and images
-- [ ] Creating my first blog on how I built the website with Hugo
-- [ ] Adding my first tutorial to my website
+- [x] ~~Animation when hovering over certain icons, text, and images~~ 
+- [x] ~~Creating my first blog on how I built the website with Hugo~~
+- [ ] Add my first tutorial to my website
+- [ ] Add project I am currently working on
+- [ ] Adding a picture of me on About Me page
+- [ ] Have a GIF pop up of me waving when you hover certain words
 
 ## Tech Used 💻
 
@@ -18,7 +21,7 @@
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 ## Let's Connect 👋🏽
-<a target="_blank" href="https://stefantaitano.netlify.app/">
+<a target="_blank" href="https://stefantaitano.com">
   <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">
 </a>
 <a target="_blank" href="https://bsky.app/profile/stefantaitano.com">
