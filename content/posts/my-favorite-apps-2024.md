@@ -1,6 +1,6 @@
 ---
 date: '2025-02-01T17:40:24-06:00'
-draft: true
+draft: false
 title: 'My Favorite Apps 2024'
 ---
 
