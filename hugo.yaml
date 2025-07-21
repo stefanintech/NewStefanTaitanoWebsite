@@ -43,10 +43,10 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "<link / abs url>"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
+    favicon: "/images/favicon"
+    favicon16x16: "/images/favicon16x16"
+    favicon32x32: "/images/favicon32x32"
+    apple_touch_icon: "/images/apple_touch_icon"
     safari_pinned_tab: "<link / abs url>"
 
   label:
@@ -58,8 +58,8 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Stefan Taitano
-    subtitle: "I solve problems in ServiceNow, lift heavy things for fun, and plot my next [chess](https://www.chess.com/member/latetotheboard) move."
-    imageUrl: "/images/stefan-green-glow.jpg"
+    subtitle: "ServiceNow Developer & Technical Consultant, lift heavy things for fun, and plotting my next [chess](https://www.chess.com/member/latetotheboard) move."
+    imageUrl: "/images/stefan-headshot-pro.jpg"
     imageWidth: 150
     imageHeight: 150
     imageTitle: "Stefan Taitano"
