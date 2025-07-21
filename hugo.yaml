@@ -55,19 +55,20 @@ params:
     iconHeight: 35
 
   # profile-mode
-  # profileMode:
-  #   enabled: false # needs to be explicitly set
-  #   title: ExampleSite
-  #   subtitle: "This is subtitle"
-  #   imageUrl: "<img location>"
-  #   imageWidth: 120
-  #   imageHeight: 120
-  #   imageTitle: my image
-  #   buttons:
-  #     - name: Posts
-  #       url: posts
-  #     - name: Tags
-  #       url: tags
+  profileMode:
+    enabled: true # needs to be explicitly set
+    title: Stefan Taitano
+    subtitle: "I solve problems in ServiceNow, lift heavy things for fun, and plot my next [chess](https://www.chess.com/member/latetotheboard) move."
+    imageUrl: "/images/stefan-green-glow.jpg"
+    imageWidth: 150
+    imageHeight: 150
+    imageTitle: "Stefan Taitano"
+    buttons:
+      - name: My Projects
+        url: /projects
+      - name: Blog Posts
+        url: /posts
+
 
   # home-info mode
   homeInfoParams:

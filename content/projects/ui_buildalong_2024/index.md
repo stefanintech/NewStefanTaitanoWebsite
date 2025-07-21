@@ -1,7 +1,7 @@
 ---
 title: "UI Build Along Month"
 date: 2025-01-15T18:08:42-04:00
-draft: false
+draft: true
 cover:
     image: https://placecats.com/300/200
     alt: "Not a project but it is coming soon"
