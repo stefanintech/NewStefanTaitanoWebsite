@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 21 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Jul 2025 23:33:41 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI-Powered Incident Description Enhancement with Claude AI</title>
+      <link>http://localhost:1313/projects/ai-claude-enchancedescription/</link>
+      <pubDate>Tue, 22 Jul 2025 23:33:41 -0500</pubDate>
+      <guid>http://localhost:1313/projects/ai-claude-enchancedescription/</guid>
+      <description>Integrates Claude AI into ServiceNow via a custom UI Action and REST API to enhance incident descriptions, improving clarity, consistency, and technician efficiency.</description>
+    </item>
     <item>
       <title>Project Title</title>
       <link>http://localhost:1313/projects/project-template/</link>

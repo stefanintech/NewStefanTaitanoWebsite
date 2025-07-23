@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AI Integration on Stefan Taitano</title>
+    <link>http://localhost:1313/tags/ai-integration/</link>
+    <description>Recent content in AI Integration on Stefan Taitano</description>
+    <image>
+      <title>Stefan Taitano</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 22 Jul 2025 23:33:41 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ai-integration/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI-Powered Incident Description Enhancement with Claude AI</title>
+      <link>http://localhost:1313/projects/ai-claude-enchancedescription/</link>
+      <pubDate>Tue, 22 Jul 2025 23:33:41 -0500</pubDate>
+      <guid>http://localhost:1313/projects/ai-claude-enchancedescription/</guid>
+      <description>Integrates Claude AI into ServiceNow via a custom UI Action and REST API to enhance incident descriptions, improving clarity, consistency, and technician efficiency.</description>
+    </item>
+  </channel>
+</rss>
