@@ -1,4 +1,4 @@
-# <a target="_blank" href="https://stefantaitano.netlify.app/;.">Stefan Portfolio</a> 💻
+# <a target="_blank" href="https://stefantaitano.com/">Stefan Portfolio</a> 💻
 
 
 ## Lessons Learned 💭
@@ -10,8 +10,8 @@
 - [x] ~~Animation when hovering over certain icons, text, and images~~ 
 - [x] ~~Creating my first blog on how I built the website with Hugo~~
 - [ ] Add my first tutorial to my website
-- [ ] Add project I am currently working on
-- [ ] Adding a picture of me on About Me page
+- [x] Add project I am currently working on
+- [x] Adding a picture of me on About Me page
 - [ ] Have a GIF pop up of me waving when you hover certain words
 
 ## Tech Used 💻
